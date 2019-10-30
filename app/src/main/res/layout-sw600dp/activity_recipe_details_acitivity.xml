@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/android_me_linear_layout"
+    >
+
+    <fragment
+    android:layout_width="400dp"
+    android:layout_height="match_parent"
+    android:name="com.basil.bakingapp.RecipeDetailsFragment"
+    android:id="@+id/recipe_details_fragment_id"
+    ></fragment>
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@android:color/darker_gray" />
+
+    <FrameLayout
+        android:id="@+id/fragment_container_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+</LinearLayout>

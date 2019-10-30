@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Baking App</string>
+    <string name="title_activity_recipe_details_acitivity">RecipeDetailsAcitivity</string>
+    <string name="ingredientsKey">IngredientsKey</string>
+    <string name="stepsKey">StepsKey</string>
+    <string name="nameKey">NameKey</string>
+    <string name="idKey">IdKey</string>
+
+    <string name="videoStepKey">VideoStepKey</string>
+    <string name="discriptionStepKey">DiscriptionStepKey</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+
+</resources>

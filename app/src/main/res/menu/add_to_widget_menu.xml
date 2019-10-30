@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mi_add_widget"
+        android:icon="@drawable/ic_star_border_white_48dp"
+        android:orderInCategory="166"
+        android:title="menu_star"
+        app:showAsAction="always"
+        android:visible="true"
+        />
+</menu>
